@@ -1,0 +1,6 @@
+@SeaHoldemWeb_HostAddress = http://localhost:5098
+
+GET {{SeaHoldemWeb_HostAddress}}/holdem/bet/
+Accept: application/json
+
+###
